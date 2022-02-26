@@ -1,6 +1,6 @@
-package lesson_3;
+package lesson_3.task_2;
 
-public abstract class Fruit {
+public class Fruit {
 
     private final float weight;
 
